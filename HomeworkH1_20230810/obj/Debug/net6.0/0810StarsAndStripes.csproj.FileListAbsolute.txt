@@ -1,0 +1,15 @@
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\bin\Debug\net6.0\0810StarsAndStripes.exe
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\bin\Debug\net6.0\0810StarsAndStripes.deps.json
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\bin\Debug\net6.0\0810StarsAndStripes.runtimeconfig.json
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\bin\Debug\net6.0\0810StarsAndStripes.dll
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\bin\Debug\net6.0\0810StarsAndStripes.pdb
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\obj\Debug\net6.0\0810StarsAndStripes.csproj.AssemblyReference.cache
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\obj\Debug\net6.0\0810StarsAndStripes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\obj\Debug\net6.0\0810StarsAndStripes.AssemblyInfoInputs.cache
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\obj\Debug\net6.0\0810StarsAndStripes.AssemblyInfo.cs
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\obj\Debug\net6.0\0810StarsAndStripes.csproj.CoreCompileInputs.cache
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\obj\Debug\net6.0\0810StarsAndStripes.dll
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\obj\Debug\net6.0\refint\0810StarsAndStripes.dll
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\obj\Debug\net6.0\0810StarsAndStripes.pdb
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\obj\Debug\net6.0\0810StarsAndStripes.genruntimeconfig.cache
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\obj\Debug\net6.0\ref\0810StarsAndStripes.dll

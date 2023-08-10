@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "0810StarsAndStripes/1.0.0": {
+        "runtime": {
+          "0810StarsAndStripes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "0810StarsAndStripes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
