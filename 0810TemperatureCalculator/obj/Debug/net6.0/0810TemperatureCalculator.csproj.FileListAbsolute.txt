@@ -1,0 +1,15 @@
+C:\Users\tian0139\source\repos\0810TemperatureCalculator\bin\Debug\net6.0\0810TemperatureCalculator.exe
+C:\Users\tian0139\source\repos\0810TemperatureCalculator\bin\Debug\net6.0\0810TemperatureCalculator.deps.json
+C:\Users\tian0139\source\repos\0810TemperatureCalculator\bin\Debug\net6.0\0810TemperatureCalculator.runtimeconfig.json
+C:\Users\tian0139\source\repos\0810TemperatureCalculator\bin\Debug\net6.0\0810TemperatureCalculator.dll
+C:\Users\tian0139\source\repos\0810TemperatureCalculator\bin\Debug\net6.0\0810TemperatureCalculator.pdb
+C:\Users\tian0139\source\repos\0810TemperatureCalculator\obj\Debug\net6.0\0810TemperatureCalculator.csproj.AssemblyReference.cache
+C:\Users\tian0139\source\repos\0810TemperatureCalculator\obj\Debug\net6.0\0810TemperatureCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tian0139\source\repos\0810TemperatureCalculator\obj\Debug\net6.0\0810TemperatureCalculator.AssemblyInfoInputs.cache
+C:\Users\tian0139\source\repos\0810TemperatureCalculator\obj\Debug\net6.0\0810TemperatureCalculator.AssemblyInfo.cs
+C:\Users\tian0139\source\repos\0810TemperatureCalculator\obj\Debug\net6.0\0810TemperatureCalculator.csproj.CoreCompileInputs.cache
+C:\Users\tian0139\source\repos\0810TemperatureCalculator\obj\Debug\net6.0\0810TemperatureCalculator.dll
+C:\Users\tian0139\source\repos\0810TemperatureCalculator\obj\Debug\net6.0\refint\0810TemperatureCalculator.dll
+C:\Users\tian0139\source\repos\0810TemperatureCalculator\obj\Debug\net6.0\0810TemperatureCalculator.pdb
+C:\Users\tian0139\source\repos\0810TemperatureCalculator\obj\Debug\net6.0\0810TemperatureCalculator.genruntimeconfig.cache
+C:\Users\tian0139\source\repos\0810TemperatureCalculator\obj\Debug\net6.0\ref\0810TemperatureCalculator.dll
