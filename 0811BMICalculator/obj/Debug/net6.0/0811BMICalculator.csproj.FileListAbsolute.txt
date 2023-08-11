@@ -1,0 +1,15 @@
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\0811BMICalculator\bin\Debug\net6.0\0811BMICalculator.exe
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\0811BMICalculator\bin\Debug\net6.0\0811BMICalculator.deps.json
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\0811BMICalculator\bin\Debug\net6.0\0811BMICalculator.runtimeconfig.json
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\0811BMICalculator\bin\Debug\net6.0\0811BMICalculator.dll
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\0811BMICalculator\bin\Debug\net6.0\0811BMICalculator.pdb
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\0811BMICalculator\obj\Debug\net6.0\0811BMICalculator.csproj.AssemblyReference.cache
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\0811BMICalculator\obj\Debug\net6.0\0811BMICalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\0811BMICalculator\obj\Debug\net6.0\0811BMICalculator.AssemblyInfoInputs.cache
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\0811BMICalculator\obj\Debug\net6.0\0811BMICalculator.AssemblyInfo.cs
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\0811BMICalculator\obj\Debug\net6.0\0811BMICalculator.csproj.CoreCompileInputs.cache
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\0811BMICalculator\obj\Debug\net6.0\0811BMICalculator.dll
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\0811BMICalculator\obj\Debug\net6.0\refint\0811BMICalculator.dll
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\0811BMICalculator\obj\Debug\net6.0\0811BMICalculator.pdb
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\0811BMICalculator\obj\Debug\net6.0\0811BMICalculator.genruntimeconfig.cache
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\0811BMICalculator\obj\Debug\net6.0\ref\0811BMICalculator.dll
