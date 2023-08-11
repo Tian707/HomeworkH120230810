@@ -1,0 +1,15 @@
+C:\Users\tian0139\source\repos\0810TheBirthday\bin\Debug\net6.0\0810TheBirthday.exe
+C:\Users\tian0139\source\repos\0810TheBirthday\bin\Debug\net6.0\0810TheBirthday.deps.json
+C:\Users\tian0139\source\repos\0810TheBirthday\bin\Debug\net6.0\0810TheBirthday.runtimeconfig.json
+C:\Users\tian0139\source\repos\0810TheBirthday\bin\Debug\net6.0\0810TheBirthday.dll
+C:\Users\tian0139\source\repos\0810TheBirthday\bin\Debug\net6.0\0810TheBirthday.pdb
+C:\Users\tian0139\source\repos\0810TheBirthday\obj\Debug\net6.0\0810TheBirthday.csproj.AssemblyReference.cache
+C:\Users\tian0139\source\repos\0810TheBirthday\obj\Debug\net6.0\0810TheBirthday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tian0139\source\repos\0810TheBirthday\obj\Debug\net6.0\0810TheBirthday.AssemblyInfoInputs.cache
+C:\Users\tian0139\source\repos\0810TheBirthday\obj\Debug\net6.0\0810TheBirthday.AssemblyInfo.cs
+C:\Users\tian0139\source\repos\0810TheBirthday\obj\Debug\net6.0\0810TheBirthday.csproj.CoreCompileInputs.cache
+C:\Users\tian0139\source\repos\0810TheBirthday\obj\Debug\net6.0\0810TheBirthday.dll
+C:\Users\tian0139\source\repos\0810TheBirthday\obj\Debug\net6.0\refint\0810TheBirthday.dll
+C:\Users\tian0139\source\repos\0810TheBirthday\obj\Debug\net6.0\0810TheBirthday.pdb
+C:\Users\tian0139\source\repos\0810TheBirthday\obj\Debug\net6.0\0810TheBirthday.genruntimeconfig.cache
+C:\Users\tian0139\source\repos\0810TheBirthday\obj\Debug\net6.0\ref\0810TheBirthday.dll
