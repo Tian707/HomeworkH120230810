@@ -1,0 +1,15 @@
+C:\Users\tian0139\source\repos\VolumeCalculator\bin\Debug\net6.0\VolumeCalculator.exe
+C:\Users\tian0139\source\repos\VolumeCalculator\bin\Debug\net6.0\VolumeCalculator.deps.json
+C:\Users\tian0139\source\repos\VolumeCalculator\bin\Debug\net6.0\VolumeCalculator.runtimeconfig.json
+C:\Users\tian0139\source\repos\VolumeCalculator\bin\Debug\net6.0\VolumeCalculator.dll
+C:\Users\tian0139\source\repos\VolumeCalculator\bin\Debug\net6.0\VolumeCalculator.pdb
+C:\Users\tian0139\source\repos\VolumeCalculator\obj\Debug\net6.0\VolumeCalculator.csproj.AssemblyReference.cache
+C:\Users\tian0139\source\repos\VolumeCalculator\obj\Debug\net6.0\VolumeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tian0139\source\repos\VolumeCalculator\obj\Debug\net6.0\VolumeCalculator.AssemblyInfoInputs.cache
+C:\Users\tian0139\source\repos\VolumeCalculator\obj\Debug\net6.0\VolumeCalculator.AssemblyInfo.cs
+C:\Users\tian0139\source\repos\VolumeCalculator\obj\Debug\net6.0\VolumeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\tian0139\source\repos\VolumeCalculator\obj\Debug\net6.0\VolumeCalculator.dll
+C:\Users\tian0139\source\repos\VolumeCalculator\obj\Debug\net6.0\refint\VolumeCalculator.dll
+C:\Users\tian0139\source\repos\VolumeCalculator\obj\Debug\net6.0\VolumeCalculator.pdb
+C:\Users\tian0139\source\repos\VolumeCalculator\obj\Debug\net6.0\VolumeCalculator.genruntimeconfig.cache
+C:\Users\tian0139\source\repos\VolumeCalculator\obj\Debug\net6.0\ref\VolumeCalculator.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "0810VolumeCalculator/1.0.0": {
+        "runtime": {
+          "0810VolumeCalculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "0810VolumeCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
