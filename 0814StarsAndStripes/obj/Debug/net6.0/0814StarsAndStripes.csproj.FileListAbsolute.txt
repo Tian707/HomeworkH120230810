@@ -1,0 +1,15 @@
+C:\Users\tian0139\source\repos\0814StarsAndStripes\bin\Debug\net6.0\0814StarsAndStripes.exe
+C:\Users\tian0139\source\repos\0814StarsAndStripes\bin\Debug\net6.0\0814StarsAndStripes.deps.json
+C:\Users\tian0139\source\repos\0814StarsAndStripes\bin\Debug\net6.0\0814StarsAndStripes.runtimeconfig.json
+C:\Users\tian0139\source\repos\0814StarsAndStripes\bin\Debug\net6.0\0814StarsAndStripes.dll
+C:\Users\tian0139\source\repos\0814StarsAndStripes\bin\Debug\net6.0\0814StarsAndStripes.pdb
+C:\Users\tian0139\source\repos\0814StarsAndStripes\obj\Debug\net6.0\0814StarsAndStripes.csproj.AssemblyReference.cache
+C:\Users\tian0139\source\repos\0814StarsAndStripes\obj\Debug\net6.0\0814StarsAndStripes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tian0139\source\repos\0814StarsAndStripes\obj\Debug\net6.0\0814StarsAndStripes.AssemblyInfoInputs.cache
+C:\Users\tian0139\source\repos\0814StarsAndStripes\obj\Debug\net6.0\0814StarsAndStripes.AssemblyInfo.cs
+C:\Users\tian0139\source\repos\0814StarsAndStripes\obj\Debug\net6.0\0814StarsAndStripes.csproj.CoreCompileInputs.cache
+C:\Users\tian0139\source\repos\0814StarsAndStripes\obj\Debug\net6.0\0814StarsAndStripes.dll
+C:\Users\tian0139\source\repos\0814StarsAndStripes\obj\Debug\net6.0\refint\0814StarsAndStripes.dll
+C:\Users\tian0139\source\repos\0814StarsAndStripes\obj\Debug\net6.0\0814StarsAndStripes.pdb
+C:\Users\tian0139\source\repos\0814StarsAndStripes\obj\Debug\net6.0\0814StarsAndStripes.genruntimeconfig.cache
+C:\Users\tian0139\source\repos\0814StarsAndStripes\obj\Debug\net6.0\ref\0814StarsAndStripes.dll
