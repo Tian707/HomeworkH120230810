@@ -1,0 +1,15 @@
+C:\Users\tian0139\source\repos\0814Practice\obj\Debug\net6.0\0814Practice.csproj.AssemblyReference.cache
+C:\Users\tian0139\source\repos\0814Practice\obj\Debug\net6.0\0814Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tian0139\source\repos\0814Practice\obj\Debug\net6.0\0814Practice.AssemblyInfoInputs.cache
+C:\Users\tian0139\source\repos\0814Practice\obj\Debug\net6.0\0814Practice.AssemblyInfo.cs
+C:\Users\tian0139\source\repos\0814Practice\obj\Debug\net6.0\0814Practice.csproj.CoreCompileInputs.cache
+C:\Users\tian0139\source\repos\0814Practice\bin\Debug\net6.0\0814Practice.exe
+C:\Users\tian0139\source\repos\0814Practice\bin\Debug\net6.0\0814Practice.deps.json
+C:\Users\tian0139\source\repos\0814Practice\bin\Debug\net6.0\0814Practice.runtimeconfig.json
+C:\Users\tian0139\source\repos\0814Practice\bin\Debug\net6.0\0814Practice.dll
+C:\Users\tian0139\source\repos\0814Practice\bin\Debug\net6.0\0814Practice.pdb
+C:\Users\tian0139\source\repos\0814Practice\obj\Debug\net6.0\0814Practice.dll
+C:\Users\tian0139\source\repos\0814Practice\obj\Debug\net6.0\refint\0814Practice.dll
+C:\Users\tian0139\source\repos\0814Practice\obj\Debug\net6.0\0814Practice.pdb
+C:\Users\tian0139\source\repos\0814Practice\obj\Debug\net6.0\0814Practice.genruntimeconfig.cache
+C:\Users\tian0139\source\repos\0814Practice\obj\Debug\net6.0\ref\0814Practice.dll
