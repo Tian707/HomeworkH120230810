@@ -1,0 +1,15 @@
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\0813ChristmasTree\bin\Debug\net6.0\0813ChristmasTree.exe
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\0813ChristmasTree\bin\Debug\net6.0\0813ChristmasTree.deps.json
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\0813ChristmasTree\bin\Debug\net6.0\0813ChristmasTree.runtimeconfig.json
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\0813ChristmasTree\bin\Debug\net6.0\0813ChristmasTree.dll
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\0813ChristmasTree\bin\Debug\net6.0\0813ChristmasTree.pdb
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\0813ChristmasTree\obj\Debug\net6.0\0813ChristmasTree.csproj.AssemblyReference.cache
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\0813ChristmasTree\obj\Debug\net6.0\0813ChristmasTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\0813ChristmasTree\obj\Debug\net6.0\0813ChristmasTree.AssemblyInfoInputs.cache
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\0813ChristmasTree\obj\Debug\net6.0\0813ChristmasTree.AssemblyInfo.cs
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\0813ChristmasTree\obj\Debug\net6.0\0813ChristmasTree.csproj.CoreCompileInputs.cache
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\0813ChristmasTree\obj\Debug\net6.0\0813ChristmasTree.dll
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\0813ChristmasTree\obj\Debug\net6.0\refint\0813ChristmasTree.dll
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\0813ChristmasTree\obj\Debug\net6.0\0813ChristmasTree.pdb
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\0813ChristmasTree\obj\Debug\net6.0\0813ChristmasTree.genruntimeconfig.cache
+C:\Users\tian0139\source\repos\HomeworkH1_20230810\0813ChristmasTree\obj\Debug\net6.0\ref\0813ChristmasTree.dll
