@@ -1,0 +1,8 @@
+C:\Users\tian0139\source\repos\0815Vino\bin\Debug\0815Vino.exe.config
+C:\Users\tian0139\source\repos\0815Vino\bin\Debug\0815Vino.exe
+C:\Users\tian0139\source\repos\0815Vino\bin\Debug\0815Vino.pdb
+C:\Users\tian0139\source\repos\0815Vino\obj\Debug\0815Vino.csproj.AssemblyReference.cache
+C:\Users\tian0139\source\repos\0815Vino\obj\Debug\0815Vino.csproj.SuggestedBindingRedirects.cache
+C:\Users\tian0139\source\repos\0815Vino\obj\Debug\0815Vino.csproj.CoreCompileInputs.cache
+C:\Users\tian0139\source\repos\0815Vino\obj\Debug\0815Vino.exe
+C:\Users\tian0139\source\repos\0815Vino\obj\Debug\0815Vino.pdb
