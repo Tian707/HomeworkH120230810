@@ -1,0 +1,8 @@
+C:\Users\tian0139\source\repos\0815Mozart\bin\Debug\0815Mozart.exe.config
+C:\Users\tian0139\source\repos\0815Mozart\bin\Debug\0815Mozart.exe
+C:\Users\tian0139\source\repos\0815Mozart\bin\Debug\0815Mozart.pdb
+C:\Users\tian0139\source\repos\0815Mozart\obj\Debug\0815Mozart.csproj.AssemblyReference.cache
+C:\Users\tian0139\source\repos\0815Mozart\obj\Debug\0815Mozart.csproj.SuggestedBindingRedirects.cache
+C:\Users\tian0139\source\repos\0815Mozart\obj\Debug\0815Mozart.csproj.CoreCompileInputs.cache
+C:\Users\tian0139\source\repos\0815Mozart\obj\Debug\0815Mozart.exe
+C:\Users\tian0139\source\repos\0815Mozart\obj\Debug\0815Mozart.pdb
